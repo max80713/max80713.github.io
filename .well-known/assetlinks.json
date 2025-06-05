@@ -1,11 +1,13 @@
-{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.funday.newfunday",
-    "sha256_cert_fingerprints": [
-      "1C:8D:9A:1F:B3:2D:84:63:2B:69:D6:38:00:3F:E9:A4:4D:F9:CF:89:FB:19:27:D0:8F:22:1A:4E:C1:7A:AF:BD",
-      "A7:0D:63:43:B6:0A:98:87:80:2D:E9:FC:88:03:12:DF:F2:9E:A0:F0:99:29:29:9F:5A:85:0A:59:1E:C4:34:EA"
-    ]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.funday.newfunday",
+      "sha256_cert_fingerprints": [
+        "1C:8D:9A:1F:B3:2D:84:63:2B:69:D6:38:00:3F:E9:A4:4D:F9:CF:89:FB:19:27:D0:8F:22:1A:4E:C1:7A:AF:BD",
+        "A7:0D:63:43:B6:0A:98:87:80:2D:E9:FC:88:03:12:DF:F2:9E:A0:F0:99:29:29:9F:5A:85:0A:59:1E:C4:34:EA"
+      ]
+    }
   }
-}
+]
