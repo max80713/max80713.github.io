@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "A354N74585.com.funday.newfunday",
+        "components": [
+          {
+            "/": "*",
+            "comment": "Matches any URL"
+          },
+          {
+            "/": "/live/*",
+            "comment": "Matches any URL whose path starts with /live/"
+          }
+        ]
+      }
+    ]
+  }
+}
